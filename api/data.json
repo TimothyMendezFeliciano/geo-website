@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "slug":"Principles-and-Policies",
+    "proImg": "/images/shop/1.jpg",
+    "title": "Principles and Policies",
+    "price": "340.00",
+    "delPrice": "380.00",
+    "brand":"Gucci",
+    "size":"Xl"
+  },
+  {
+    "id": 2,
+    "slug":"Winning-Arguments",
+    "proImg": "/images/shop/2.jpg",
+    "title": "Winning Arguments",
+    "price": "65.00",
+    "delPrice": "85.00",
+    "brand":"Gucci",
+    "size":"XXl"
+  },
+  {
+    "id": 3,
+    "slug":"To-Kill-a-Mockingbird",
+    "proImg": "/images/shop/3.jpg",
+    "title": "To Kill a Mockingbird",
+    "price": "285.00",
+    "delPrice": "300.00",
+    "brand":"Gucci",
+    "size":"L"
+  },
+  {
+    "id": 4,
+    "slug":"Learning-the-Law",
+    "proImg": "/images/shop/4.jpg",
+    "title": "Learning the Law",
+    "price": "176.00",
+    "delPrice": "178.00",
+    "brand":"Gucci",
+    "size":"M"
+  },
+  {
+    "id": 5,
+    "slug":"Lord-Denning",
+    "proImg": "/images/shop/5.jpg",
+    "title": "Lord Denning, A Life",
+    "price": "125.00",
+    "delPrice": "130.00",
+    "brand":"Gucci",
+    "size":"XXl"
+  },
+  {
+    "id": 6,
+    "slug":"Principles-and-Policies",
+    "proImg": "/images/shop/6.jpg",
+    "title": "Principles and Policies",
+    "price": "548.00",
+    "delPrice": "600.00",
+    "brand":"Gucci",
+    "size":"Xl"
+  }
+]
