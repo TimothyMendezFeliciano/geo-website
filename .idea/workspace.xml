@@ -5,114 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d99edcbf-3096-4d0b-9f9d-6d0445bb578a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-BoldObl.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-BoldObl.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-Demi.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-Demi.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-DemiObl.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-DemiObl.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-ExtraBold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-ExtraBold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-ExtraBoldObl.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-ExtraBoldObl.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-Heavy.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-Heavy.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-HeavyObl.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-HeavyObl.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-Light.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-LightObl.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-LightObl.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-Medium.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-MediumObl.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/FuturaPT-MediumObl.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/flaticon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/flaticon.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/flaticon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/flaticon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/flaticon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/flaticon.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/icomoon.dev.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/license.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/slick.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/slick.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/slick.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/slick.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/text-font/Muli-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/text-font/Muli-ExtraBold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/text-font/Muli-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/text-font/Muli-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/text-font/Muli-SemiBold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/text-font/Muli.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/themify.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/themify.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/themify.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/fonts/themify.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/notIndex.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/BackgroundVideo.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/Home.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/flaticon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/base/_base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/components/_blog-sidebar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/components/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/components/_form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/components/_page-title.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/components/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/components/_preloader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/components/_section-title.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/components/_social-links.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/components/_sticky-header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/helpers/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/helpers/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/helpers/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/layout/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/layout/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/layout/_hero-slider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/page/_attorney.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/page/_auth.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/page/_blog-single.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/page/_blog.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/page/_cart.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/page/_case.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/page/_checkout.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/page/_contact.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/page/_error-404.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/page/_faq.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/page/_home-default.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/page/_home-style2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/page/_pricing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/page/_service.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/page/_shop-single.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/page/_shop.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/sass/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/themify-icons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hero/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +84,7 @@
       <workItem from="1678235847670" duration="3149000" />
       <workItem from="1678320334855" duration="2153000" />
       <workItem from="1726779424717" duration="669000" />
-      <workItem from="1726780140573" duration="1186000" />
+      <workItem from="1726780140573" duration="1421000" />
     </task>
     <servers />
   </component>
