@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d99edcbf-3096-4d0b-9f9d-6d0445bb578a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/CaseStudies/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PracticeS2/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/about/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/api/service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/attorneys/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/api/attorneys.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/timot/Webstorm/geo-website/src/components",
+    "last_opened_file_path": "C:/Users/timot/Webstorm/geo-website/src/pages/api",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,8 +56,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\timot\Webstorm\geo-website\src\components" />
       <recent name="C:\Users\timot\Webstorm\geo-website\src\pages\api" />
+      <recent name="C:\Users\timot\Webstorm\geo-website\src\components" />
       <recent name="C:\Users\timot\Webstorm\geo-website\src\pages\fonts" />
       <recent name="C:\Users\timot\Webstorm\geo-website\src\styles" />
       <recent name="C:\Users\timot\canun\public\images" />
@@ -87,7 +85,7 @@
       <workItem from="1678235847670" duration="3149000" />
       <workItem from="1678320334855" duration="2153000" />
       <workItem from="1726779424717" duration="669000" />
-      <workItem from="1726780140573" duration="3418000" />
+      <workItem from="1726780140573" duration="3666000" />
     </task>
     <servers />
   </component>
