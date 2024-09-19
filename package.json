@@ -12,6 +12,7 @@
     "@types/react-slick": "^0.23.13",
     "next": "14.2.12",
     "react": "^18",
+    "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-dom": "^18",
     "react-slick": "^0.30.2",
     "simple-react-validator": "^1.6.2"
