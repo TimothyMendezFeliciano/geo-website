@@ -5,7 +5,74 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d99edcbf-3096-4d0b-9f9d-6d0445bb578a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/footer/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog/about-widget.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog/blog-avater/img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog/blog-avater/img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog/blog-avater/img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog/img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog/img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog/img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog/img-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog/img-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog/img-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/blog/img-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/case/img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/case/img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/case/img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/case/img-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/case/img-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/case/img-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/consult.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/ft-icon/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/ft-icon/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/ft-icon/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/ft-icon/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/instragram/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/instragram/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/instragram/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/instragram/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/instragram/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/instragram/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/instragram/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/instragram/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/instragram/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/instragram/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/instragram/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/instragram/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service-single/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service-single/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service-single/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/img-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/img-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/service/img-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/signeture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/team/img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/team/img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/team/img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/team/img-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/testimonial/img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/testimonial/img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/testimonial/img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HeaderTopbar/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MobileMenu/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/api/product.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CaseStudies/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CaseStudies/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/flaticon.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/flaticon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sass/helpers/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/sass/helpers/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/sass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/sass/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/themify-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/themify-icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +109,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/timot/Webstorm/geo-website/src/components",
+    "last_opened_file_path": "C:/Users/timot/Webstorm/geo-website/public/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,11 +121,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\timot\Webstorm\geo-website\src\components" />
+      <recent name="C:\Users\timot\Webstorm\geo-website\public\images" />
       <recent name="C:\Users\timot\Webstorm\geo-website\src\pages\api" />
+      <recent name="C:\Users\timot\Webstorm\geo-website\src\components" />
       <recent name="C:\Users\timot\Webstorm\geo-website\src\pages\fonts" />
       <recent name="C:\Users\timot\Webstorm\geo-website\src\styles" />
-      <recent name="C:\Users\timot\canun\public\images" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -83,7 +150,7 @@
       <workItem from="1678235847670" duration="3149000" />
       <workItem from="1678320334855" duration="2153000" />
       <workItem from="1726779424717" duration="669000" />
-      <workItem from="1726780140573" duration="4582000" />
+      <workItem from="1726780140573" duration="6311000" />
     </task>
     <servers />
   </component>

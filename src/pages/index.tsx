@@ -11,7 +11,7 @@ import Consultinencey from '../components/Consultinencey'
 import BlogSection from '../components/BlogSection'
 import Footer from '../components/footer'
 import Scrollbar from '../components/scrollbar'
-import Logo from '/images/logo-2.svg'
+import Logo from '../../public/images/logo-2.svg'
 
 
 const Index =() => {

@@ -1,11 +1,11 @@
 import React, {Component} from 'react';
 import Link from 'next/link'
-import cimg1 from '/public/images/case/img-1.jpg'
-import cimg2 from '/public/images/case/img-2.jpg'
-import cimg3 from '/public/images/case/img-3.jpg'
-import cimg4 from '/public/images/case/img-4.jpg'
-import cimg5 from '/public/images/case/img-5.jpg'
-import cimg6 from '/public/images/case/img-6.jpg'
+import cimg1 from '../../../public/images/case/img-1.jpg'
+import cimg2 from '../../../public/images/case/img-2.jpg'
+import cimg3 from '../../../public/images/case/img-3.jpg'
+import cimg4 from '../../../public/images/case/img-4.jpg'
+import cimg5 from '../../../public/images/case/img-5.jpg'
+import cimg6 from '../../../public/images/case/img-6.jpg'
 import Image from 'next/image';
 
 class CaseStudies extends Component {

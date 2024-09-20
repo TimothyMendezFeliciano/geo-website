@@ -1,12 +1,11 @@
 import React, { Component } from 'react'
 import Link from 'next/link';
-import HeaderTopbar from '../../components/HeaderTopbar'
+import HeaderTopbar from '../HeaderTopbar'
 import MobileMenu from '../../components/MobileMenu'
-import Prtoducts from '../../api/product'
 import Image from 'next/image';
-import { removeFromCart } from "../../store/actions/action";
-import { totalPrice } from "../../utils";
-import { connect } from "react-redux";
+// import { removeFromCart } from "../../store/actions/action";
+// import { totalPrice } from "../../utils";
+// import { connect } from "react-redux";
 
 
 class Header extends Component  {
@@ -135,78 +134,78 @@ class Header extends Component  {
                                     <div className="header-right">
                                         <div className="header-search-form-wrapper">
                                             <div className="cart-search-contact">
-                                                <button onClick={this.searchHandler} className="search-toggle-btn"><i
-                                                    className={`${isSearchShow ? 'ti-close' : 'ti-search'}`}></i></button>
-                                                <div className={`header-search-form ${isSearchShow ? 'header-search-content-toggle' : ''}`}>
-                                                    <form onSubmit={SubmitHandler}>
-                                                        <div>
-                                                            <input type="text" className="form-control"
-                                                                placeholder="Search here..." />
-                                                            <button type="submit"><i
-                                                                className="fi ti-search"></i></button>
-                                                        </div>
-                                                    </form>
-                                                </div>
+                                                {/*<button onClick={this.searchHandler} className="search-toggle-btn"><i*/}
+                                                {/*    className={`${isSearchShow ? 'ti-close' : 'ti-search'}`}></i></button>*/}
+                                                {/*<div className={`header-search-form ${isSearchShow ? 'header-search-content-toggle' : ''}`}>*/}
+                                                {/*    <form onSubmit={SubmitHandler}>*/}
+                                                {/*        <div>*/}
+                                                {/*            <input type="text" className="form-control"*/}
+                                                {/*                placeholder="Search here..." />*/}
+                                                {/*            <button type="submit"><i*/}
+                                                {/*                className="fi ti-search"></i></button>*/}
+                                                {/*        </div>*/}
+                                                {/*    </form>*/}
+                                                {/*</div>*/}
                                             </div>
                                         </div>
                                         <div className="mini-cart">
-                                            <button
-                                                onClick={this.cartHandler}
-                                                className="cart-toggle-btn"
-                                            >
-                                                {" "}
-                                                <i className="fi flaticon-shopping-cart"></i>{" "}
-                                                <span className="cart-count">{carts.length}</span>
-                                            </button>
-                                            <div
-                                                className={`mini-cart-content ${isCartShow ? "mini-cart-content-toggle" : ""
-                                                    }`}
-                                            >
-                                                <button
-                                                    onClick={this.cartHandler}
-                                                    className="mini-cart-close"
-                                                >
-                                                    <i className="ti-close"></i>
-                                                </button>
-                                                <div className="mini-cart-items">
-                                                    {carts &&
-                                                        carts.length > 0 &&
-                                                        carts.map((cart, crt) => (
-                                                            <div className="mini-cart-item clearfix" key={crt}>
-                                                                <div className="mini-cart-item-image">
-                                                                    <span>
-                                                                        <img src={cart.proImg} alt="icon" />
-                                                                    </span>
-                                                                </div>
-                                                                <div className="mini-cart-item-des">
-                                                                    <p>{cart.title} </p>
-                                                                    <span className="mini-cart-item-price">
-                                                                        ${cart.price} x {" "} {cart.qty}
-                                                                    </span>
-                                                                    <span className="mini-cart-item-quantity">
-                                                                        <button
-                                                                            onClick={() =>
-                                                                                this.props.removeFromCart(cart.id)
-                                                                            }
-                                                                            className="btn btn-sm btn-danger"
-                                                                        >
-                                                                            <i className="ti-close"></i>
-                                                                        </button>{" "}
-                                                                    </span>
-                                                                </div>
-                                                            </div>
-                                                        ))}
-                                                </div>
-                                                <div className="mini-cart-action clearfix">
-                                                    <span className="mini-checkout-price">
-                                                        Total: ${totalPrice(carts)}
-                                                    </span>
-                                                    <div className="mini-btn">
-                                                        <Link onClick={ClickHandler} href="/checkout" className="view-cart-btn s1">Checkout</Link>
-                                                        <Link onClick={ClickHandler} href="/cart" className="view-cart-btn">View Cart</Link>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                            {/*<button*/}
+                                            {/*    onClick={this.cartHandler}*/}
+                                            {/*    className="cart-toggle-btn"*/}
+                                            {/*>*/}
+                                            {/*    {" "}*/}
+                                            {/*    <i className="fi flaticon-shopping-cart"></i>{" "}*/}
+                                            {/*    <span className="cart-count">{carts.length}</span>*/}
+                                            {/*</button>*/}
+                                            {/*<div*/}
+                                            {/*    className={`mini-cart-content ${isCartShow ? "mini-cart-content-toggle" : ""*/}
+                                            {/*        }`}*/}
+                                            {/*>*/}
+                                            {/*    <button*/}
+                                            {/*        onClick={this.cartHandler}*/}
+                                            {/*        className="mini-cart-close"*/}
+                                            {/*    >*/}
+                                            {/*        <i className="ti-close"></i>*/}
+                                            {/*    </button>*/}
+                                            {/*    <div className="mini-cart-items">*/}
+                                            {/*        {carts &&*/}
+                                            {/*            carts.length > 0 &&*/}
+                                            {/*            carts.map((cart, crt) => (*/}
+                                            {/*                <div className="mini-cart-item clearfix" key={crt}>*/}
+                                            {/*                    <div className="mini-cart-item-image">*/}
+                                            {/*                        <span>*/}
+                                            {/*                            <img src={cart.proImg} alt="icon" />*/}
+                                            {/*                        </span>*/}
+                                            {/*                    </div>*/}
+                                            {/*                    <div className="mini-cart-item-des">*/}
+                                            {/*                        <p>{cart.title} </p>*/}
+                                            {/*                        <span className="mini-cart-item-price">*/}
+                                            {/*                            ${cart.price} x {" "} {cart.qty}*/}
+                                            {/*                        </span>*/}
+                                            {/*                        <span className="mini-cart-item-quantity">*/}
+                                            {/*                            <button*/}
+                                            {/*                                onClick={() =>*/}
+                                            {/*                                    this.props.removeFromCart(cart.id)*/}
+                                            {/*                                }*/}
+                                            {/*                                className="btn btn-sm btn-danger"*/}
+                                            {/*                            >*/}
+                                            {/*                                <i className="ti-close"></i>*/}
+                                            {/*                            </button>{" "}*/}
+                                            {/*                        </span>*/}
+                                            {/*                    </div>*/}
+                                            {/*                </div>*/}
+                                            {/*            ))}*/}
+                                            {/*    </div>*/}
+                                            {/*    <div className="mini-cart-action clearfix">*/}
+                                            {/*        <span className="mini-checkout-price">*/}
+                                            {/*            Total: ${totalPrice(carts)}*/}
+                                            {/*        </span>*/}
+                                            {/*        <div className="mini-btn">*/}
+                                            {/*            <Link onClick={ClickHandler} href="/checkout" className="view-cart-btn s1">Checkout</Link>*/}
+                                            {/*            <Link onClick={ClickHandler} href="/cart" className="view-cart-btn">View Cart</Link>*/}
+                                            {/*        </div>*/}
+                                            {/*    </div>*/}
+                                            {/*</div>*/}
                                         </div>
                                     </div>
                                 </div>
@@ -225,4 +224,5 @@ const mapStateToProps = (state) => {
     };
 };
 
-export default connect(mapStateToProps, { removeFromCart })(Header);
+// export default connect(mapStateToProps, { removeFromCart })(Header);
+export default Header;
