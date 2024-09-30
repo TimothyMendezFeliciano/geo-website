@@ -22,13 +22,13 @@ const Hero = (props: HeroProps) => {
         <section className={`wpo-hero-slider ${props.heroClass}`}>
             <div className="hero-container">
                 <div className="hero-wrapper">
-                    <Slider {...settings}>
+                    {/*<Slider {...settings}>*/}
                         <div className="hero-slide">
                             <div className="slide-inner slide-bg-image" style={{ backgroundImage: `url(${'/images/slider/slide-1.jpg'})` }}>
                                 <div className="container-fluid">
                                     <div className="slide-content">
                                         <div className="slide-title">
-                                            <h2>We Fight For Your Justice As Like A Friend.</h2>
+                                            <h2>Strategic Tax Planning With Proven Results.</h2>
                                         </div>
                                         <div className="slide-text">
                                             <p>Law is commonly understood as a system of rules that are created and enforced
@@ -43,26 +43,26 @@ const Hero = (props: HeroProps) => {
                             </div>
                         </div>
 
-                        <div className="hero-slide">
-                            <div className="slide-inner slide-bg-image" style={{ backgroundImage: `url(${'/images/slider/slide-2.jpg'})` }}>
-                                <div className="container-fluid">
-                                    <div className="slide-content">
-                                        <div className="slide-title">
-                                            <h2>We Fight For Your Justice As Like A Friend.</h2>
-                                        </div>
-                                        <div className="slide-text">
-                                            <p>Law is commonly understood as a system of rules that are created and enforced
-                                                through social or government.</p>
-                                        </div>
-                                        <div className="clearfix"></div>
-                                        <div className="slide-btns">
-                                            <Link href="/about" className="theme-btn">Get Started</Link>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </Slider>
+                        {/*<div className="hero-slide">*/}
+                        {/*    <div className="slide-inner slide-bg-image" style={{ backgroundImage: `url(${'/images/slider/slide-2.jpg'})` }}>*/}
+                        {/*        <div className="container-fluid">*/}
+                        {/*            <div className="slide-content">*/}
+                        {/*                <div className="slide-title">*/}
+                        {/*                    <h2>We Fight For Your Justice As Like A Friend.</h2>*/}
+                        {/*                </div>*/}
+                        {/*                <div className="slide-text">*/}
+                        {/*                    <p>Law is commonly understood as a system of rules that are created and enforced*/}
+                        {/*                        through social or government.</p>*/}
+                        {/*                </div>*/}
+                        {/*                <div className="clearfix"></div>*/}
+                        {/*                <div className="slide-btns">*/}
+                        {/*                    <Link href="/about" className="theme-btn">Get Started</Link>*/}
+                        {/*                </div>*/}
+                        {/*            </div>*/}
+                        {/*        </div>*/}
+                        {/*    </div>*/}
+                        {/*</div>*/}
+                    {/*</Slider>*/}
                 </div>
             </div>
         </section>

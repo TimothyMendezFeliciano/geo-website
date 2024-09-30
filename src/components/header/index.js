@@ -3,42 +3,13 @@ import Link from 'next/link';
 import HeaderTopbar from '../HeaderTopbar'
 import MobileMenu from '../../components/MobileMenu'
 import Image from 'next/image';
-// import { removeFromCart } from "../../store/actions/action";
-// import { totalPrice } from "../../utils";
-// import { connect } from "react-redux";
-
 
 class Header extends Component  {
 
-    state = {
-        isSearchShow: false,
-        isCartShow: false,
-    }
-
-    searchHandler = () => {
-        this.setState({
-            isSearchShow: !this.state.isSearchShow
-        })
-    }
-    cartHandler = () => {
-        this.setState({
-            isCartShow: !this.state.isCartShow
-        })
-    }
-
-
     render() {
-        const { isSearchShow, isCartShow } = this.state;
-
-        const SubmitHandler = (e) => {
-            e.preventDefault()
-        }
-
         const ClickHandler = () => {
             window.scrollTo(10, 0);
         }
-
-        const { carts } = this.props;
 
         return (
             <header id="header" className={this.props.topbarNone}>
@@ -54,7 +25,7 @@ class Header extends Component  {
                                 </div>
                                 <div className="col-lg-3 col-md-6 col-6">
                                     <div className="navbar-header">
-                                        <Link onClick={ClickHandler} className="navbar-brand" href="/home"><Image src={this.props.Logo}
+                                        <Link onClick={ClickHandler} className="navbar-brand" href="/"><Image src={this.props.Logo}
                                             alt="" /></Link>
                                     </div>
                                 </div>
@@ -218,11 +189,4 @@ class Header extends Component  {
     }
 }
 
-const mapStateToProps = (state) => {
-    return {
-        carts: state.cartList.cart,
-    };
-};
-
-// export default connect(mapStateToProps, { removeFromCart })(Header);
 export default Header;

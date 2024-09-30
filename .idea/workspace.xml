@@ -5,74 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d99edcbf-3096-4d0b-9f9d-6d0445bb578a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/images/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/about-widget.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/blog-avater/img-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/blog-avater/img-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/blog-avater/img-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/img-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/img-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/img-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/img-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/img-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/img-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blog/img-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/case/img-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/case/img-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/case/img-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/case/img-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/case/img-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/case/img-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/consult.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/ft-icon/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/ft-icon/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/ft-icon/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/ft-icon/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/instragram/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/instragram/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/instragram/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/instragram/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/instragram/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/instragram/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/instragram/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/instragram/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/instragram/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/instragram/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/instragram/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/instragram/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logo-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service-single/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service-single/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service-single/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/img-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/img-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/img-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/img-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/img-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/service/img-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/signeture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/team/img-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/team/img-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/team/img-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/team/img-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/testimonial/img-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/testimonial/img-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/testimonial/img-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HeaderTopbar/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MobileMenu/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/api/product.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CaseStudies/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CaseStudies/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Features2/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Features2/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/flaticon.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/flaticon.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/sass/helpers/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/sass/helpers/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/sass/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/sass/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/themify-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/themify-icons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hero/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hero/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/api/service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/api/service.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,22 +40,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/timot/Webstorm/geo-website/public/images",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Users\\timot\\Webstorm\\geo-website\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/timot/Webstorm/geo-website/public/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\timot\\Webstorm\\geo-website\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\timot\Webstorm\geo-website\public\images" />
@@ -150,7 +87,10 @@
       <workItem from="1678235847670" duration="3149000" />
       <workItem from="1678320334855" duration="2153000" />
       <workItem from="1726779424717" duration="669000" />
-      <workItem from="1726780140573" duration="6311000" />
+      <workItem from="1726780140573" duration="6495000" />
+      <workItem from="1727029848610" duration="7000" />
+      <workItem from="1727094349031" duration="45000" />
+      <workItem from="1727639035782" duration="2012000" />
     </task>
     <servers />
   </component>

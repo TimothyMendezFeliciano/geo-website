@@ -6,17 +6,17 @@ const Features2 = () => {
      const featres = [
          {
             fIcon:'fi flaticon-badge',
-            title:'Winning Guarantee',
+            title:'Incentives Law',
             des:'One way to categorize the activities is in terms of the professional’s area of expertise such as competitive analysis.',      
          },
          {
             fIcon:'fi flaticon-diary',
-            title:'Secure Management',
+            title:'Corportate Law',
             des:'One way to categorize the activities is in terms of the professional’s area of expertise such as competitive analysis.',      
          },
          {
             fIcon:'fi flaticon-support',
-            title:'Full time support',
+            title:'Notary Services',
             des:'One way to categorize the activities is in terms of the professional’s area of expertise such as competitive analysis.',      
          },
          
