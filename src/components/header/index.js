@@ -24,7 +24,7 @@ class Header extends Component  {
                                     </div>
                                 </div>
                                 <div className="col-lg-3 col-md-6 col-6">
-                                    <div className="navbar-header">
+                                    <div className="navbar-header p-2" style={{backgroundColor: "white"}}>
                                         <Link onClick={ClickHandler} className="navbar-brand" href="/"><Image src={this.props.Logo}
                                             alt="" /></Link>
                                     </div>

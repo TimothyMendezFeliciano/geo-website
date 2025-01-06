@@ -11,7 +11,7 @@ import Consultinencey from '../components/Consultinencey'
 import BlogSection from '../components/BlogSection'
 import Footer from '../components/footer'
 import Scrollbar from '../components/scrollbar'
-import Logo from '../../public/images/logo-2.svg'
+import Logo from '../../public/images/GEO-logo-1.png'
 
 
 const Index =() => {
@@ -22,11 +22,9 @@ const Index =() => {
             <Features2/>
             <About/>
             <Practice2/>
-            <CaseStudies/>
-            <Testimonial/>
+            {/*<Testimonial/>*/}
             <Attorney/>
             <Consultinencey/>
-            <BlogSection/>
             <Footer/>
             <Scrollbar/>
         </Fragment>

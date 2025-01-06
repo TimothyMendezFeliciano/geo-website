@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import React, { useState } from 'react'
 import SimpleReactValidator from 'simple-react-validator';
-import cimg from '/public/images/consult.png'
+import cimg from '/public/images/1064 Picture.png'
 
 
 const Consultinencey = () => {

@@ -24,7 +24,7 @@ const Hero = (props: HeroProps) => {
                 <div className="hero-wrapper">
                     {/*<Slider {...settings}>*/}
                         <div className="hero-slide">
-                            <div className="slide-inner slide-bg-image" style={{ backgroundImage: `url(${'/images/slider/slide-1.jpg'})` }}>
+                            <div className="slide-inner slide-bg-image" style={{ backgroundColor: '#ff914d' }}>
                                 <div className="container-fluid">
                                     <div className="slide-content">
                                         <div className="slide-title">

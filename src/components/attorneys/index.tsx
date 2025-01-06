@@ -21,14 +21,12 @@ const Attorney = () => {
                 <div className="row align-items-center">
                     <div className="col-lg-5">
                         <div className="wpo-section-title">
-                            <h2>Meet Our Most Talented &
-                                Qualified Attorneys</h2>
+                            <h2>Meet The Team</h2>
                         </div>
                     </div>
                     <div className="col-lg-5 offset-lg-2">
                         <div className="wpo-section-title">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <p></p>
                         </div>
                     </div>
                 </div>
@@ -39,7 +37,7 @@ const Attorney = () => {
                             <div className="col col-lg-3 col-md-6 col-12" key={aitem}>
                                 <div className="wpo-team-item">
                                     <div className="wpo-team-img">
-                                        <Image src={attorney.AtImg} alt=""/>
+                                        <Image className={"contain-size"} src={attorney.AtImg} alt=""/>
                                         {/*@ts-ignore*/}
                                         <div className={`social ${isActive === attorney.Id ? "active" : ""}`}>
                                             <ul>

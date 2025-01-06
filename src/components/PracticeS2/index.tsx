@@ -16,13 +16,12 @@ const PracticeS2 = () => {
                 <div className="row align-items-center">
                     <div className="col-lg-5">
                         <div className="wpo-section-title">
-                            <h2>The Area Where We Practice Our Law</h2>
+                            <h2>Our Practice Areas</h2>
                         </div>
                     </div>
                     <div className="col-lg-5 offset-lg-2">
                         <div className="wpo-section-title">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <p></p>
                         </div>
                     </div>
                 </div>

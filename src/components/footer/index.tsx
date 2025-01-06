@@ -66,25 +66,25 @@ const Footer = () =>{
                                 <h3>Social Media</h3>
                             </div>
                             <ul>
-                                <li><Link onClick={ClickHandler} href="/"><i><Image src={ins1} alt=""/></i> Facebook</Link></li>
-                                <li><Link onClick={ClickHandler} href="/"><i><Image src={ins2} alt=""/></i> Twitter</Link></li>
-                                <li><Link onClick={ClickHandler} href="/"><i><Image src={ins3} alt=""/></i> Instagram</Link></li>
-                                <li><Link onClick={ClickHandler} href="/"><i><Image src={ins4} alt=""/></i> Youtube</Link></li>
+                                <li><Link onClick={ClickHandler} href={'https://g.co/kgs/8V6ojMf'}>1064 Ave. Ponce de León, Ste. 201, San Juan, PR 00907</Link></li>
+                                <li><Link onClick={ClickHandler} href="https://www.facebook.com/geotaxpr"><i><Image src={ins1} alt=""/></i> Facebook</Link></li>
+                                <li><Link onClick={ClickHandler} href="https://www.instagram.com/geo.tax/"><i><Image src={ins3} alt=""/></i> Instagram</Link></li>
+                                <li><Link onClick={ClickHandler} href="https://www.youtube.com/@puertoricotaxincentive6731"><i><Image src={ins4} alt=""/></i> Youtube</Link></li>
                             </ul>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div className="wpo-lower-footer">
-            <div className="container">
-                <div className="row">
-                    <div className="col col-xs-12">
-                        <p className="copyright"> Copyright &copy; 2023 Canun by <Link onClick={ClickHandler} href="/">wpOceans</Link>. All Rights Reserved.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+        {/*<div className="wpo-lower-footer">*/}
+        {/*    <div className="container">*/}
+        {/*        <div className="row">*/}
+        {/*            <div className="col col-xs-12">*/}
+        {/*                <p className="copyright"> Copyright &copy; 2023 Canun by <Link onClick={ClickHandler} href="/">wpOceans</Link>. All Rights Reserved.</p>*/}
+        {/*            </div>*/}
+        {/*        </div>*/}
+        {/*    </div>*/}
+        {/*</div>*/}
     </footer>
   )
 } 

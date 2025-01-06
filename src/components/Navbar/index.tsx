@@ -1,9 +1,10 @@
 import React from "react";
 import Header from '../header';
+import {StaticImageData} from "next/image";
 
 type NavbarProps = {
     hclass: string;
-    Logo: string;
+    Logo: StaticImageData;
     topbarNone: string;
 }
 
